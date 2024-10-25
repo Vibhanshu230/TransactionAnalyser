@@ -10,11 +10,11 @@ TransactionAnalyzer is a Python-based project designed to analyze and derive ins
    - **Application**: Simulates real-world transaction data for testing financial analysis methods without exposing sensitive data from actual users.
 
 ### 2. Data Preprocessing
-   - # Filling Missing Values 
+   - **Filling Missing Values** 
      - **Description**: Fills any missing values in the `amount` column with the median transaction amount.
      - **Application**: Handling missing data is crucial in financial datasets to ensure analyses are not skewed due to gaps. Filling with the median helps maintain data integrity without introducing outliers.
    
-   - # Dropping Duplicates  
+   - **Dropping Duplicates**  
      - **Description**: Removes duplicate rows to maintain the uniqueness of each transaction record.
      - **Application**: Duplicate transactions can distort spending patterns, potentially leading to inaccurate analyses or suspicions of fraud. Removing duplicates ensures data reliability.
 
