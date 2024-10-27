@@ -1,4 +1,4 @@
-# TransactionAnalyzer
+# TransactionAnalyser
 
 ## Description
 TransactionAnalyzer is a Python-based project designed to analyze and derive insights from financial transaction data across multiple accounts. It processes data through multiple stages, including generation, preprocessing, feature extraction, and visualization. TransactionAnalyzer helps identify key patterns in financial behavior, making it useful for both personal finance tracking and financial data analysis in organizations.
